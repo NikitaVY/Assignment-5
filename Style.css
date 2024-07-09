@@ -8,4 +8,11 @@ button{
     color: white;
     background-color: black;
     border-radius: 5px;
+    padding: 10px;
+}
+#fb{
+    border: 5px solid black;
+}
+#enfb{
+    border: 3px solid rgb(19, 22, 6);
 }
